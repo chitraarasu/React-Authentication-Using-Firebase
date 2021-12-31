@@ -1,4 +1,4 @@
 # React-Authentication-Using-Firebase
 
-##Output
+Output
 https://chitraarasu-auth.netlify.app/
